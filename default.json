@@ -1,5 +1,5 @@
 {
-  "extends": ["github>octokit/.github"],
+  "extends": ["github>octokit/.github", ":dependencyDashboard"],
   "lockFileMaintenance": {
     "automerge": true,
     "autoMergeStrategy": "squash"
